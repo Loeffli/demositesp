@@ -1,0 +1,7 @@
+.bs {
+    border: 3px solid #ccc;
+    border-radius: 15px;
+    background-color: #eee;
+    width: 100%;
+    padding: 50px;
+}
